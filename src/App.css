@@ -1,0 +1,61 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* My Css */
+/* input {
+  width: 68% !important;
+} */
+
+.wrapper-css {
+  background-color: #073664;
+  padding: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
+.edit-icon {
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin-right: 10px;
+  color: blue;
+  cursor: pointer;
+  font-size: 20px;
+  background: #fff;
+}
+
+.delete-icon {
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin-right: 10px;
+  color: red;
+  cursor: pointer;
+  font-size: 20px;
+  background: #fff;
+}
+
+.list-css {
+   list-style-type: none;
+    background-color:#ffb90e;
+    color:#fff;
+     padding:12px;
+    margin:10px 0px;
+    display:flex;
+    justify-content:space-between;
+    border-radius:10px;
+    font-size:20px;
+}
